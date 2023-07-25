@@ -15,7 +15,11 @@ I really enjoyed making this game.
 You can see realtime preview of the game  **[Here](https://www.youtube.com/watch?v=3Q21QQTCCdI)**.
 
 
-https://github.com/marijavarga/SlightlyWarm/assets/108982797/cb63ee03-9490-408c-9213-fea1bb287f21
+
+
+https://github.com/marijavarga/SlightlyWarm/assets/108982797/8e639556-2df7-470b-97d9-e4f60235add6
+
+
 
 
 ## Controls
@@ -32,7 +36,8 @@ https://github.com/marijavarga/SlightlyWarm/assets/108982797/cb63ee03-9490-408c-
 
 **Esc**: Pause Menu
 
-https://github.com/marijavarga/SlightlyWarm/assets/108982797/d1a33208-e61b-45f1-a212-b5cc4bfe4ea3
+https://github.com/marijavarga/SlightlyWarm/assets/108982797/f4159cad-e6c7-4061-a23e-11d6f9e41145
+
 
 
 
